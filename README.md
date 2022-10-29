@@ -10,6 +10,9 @@
 <a href="https://instagram.com/darpan_bahadur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darpan_bahadur" height="30" width="40" /></a>
 </p>
 
+## Badges 🥇
+[![@skullcreek's Holopin board](https://holopin.me/skullcreek)](https://holopin.io/@skullcreek)
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SkullCreek&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkullCreek&theme=dark&hide_border=true)<br/>
