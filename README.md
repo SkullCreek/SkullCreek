@@ -11,7 +11,8 @@
 </p>
 
 ## Badges 🥇
-[![@skullcreek's Holopin board](https://holopin.me/skullcreek)](https://holopin.io/@skullcreek)
+[![@skullcreek's Holopin board](https://holopin.me/skullcreek)](https://holopin.io/@skullcreek)<br><br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c62a3722-ee7c-4168-a510-f1184cd5c7e8/deploy-status)](https://app.netlify.com/sites/neon-cranachan-e2ac66/deploys)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SkullCreek&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
