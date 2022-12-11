@@ -15,9 +15,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c62a3722-ee7c-4168-a510-f1184cd5c7e8/deploy-status)](https://www.darpanarayan.me/)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SkullCreek&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SkullCreek&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkullCreek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SkullCreek&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SkullCreek&theme=highcontrast&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkullCreek&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
