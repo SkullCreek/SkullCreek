@@ -6,23 +6,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darpanarayan-bahadur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darpanarayan-bahadur" height="30" width="40" /></a>
-<a href="https://fb.com/darpanarayan.bahadur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darpanarayan.bahadur" height="30" width="40" /></a>
-<a href="https://instagram.com/darpan_bahadur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darpan_bahadur" height="30" width="40" /></a>
 </p>
+
 
 ## Badges 🥇
 [![@skullcreek's Holopin board](https://holopin.me/skullcreek)](https://holopin.io/@skullcreek)<br><br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c62a3722-ee7c-4168-a510-f1184cd5c7e8/deploy-status)](https://www.darpanarayan.me/)
+
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SkullCreek&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkullCreek&theme=highcontrast&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkullCreek&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skullcreek&label=Profile%20views&color=6600cc&style=flat-square" alt="skullcreek" /> </p>
 
 
 
