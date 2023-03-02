@@ -10,7 +10,6 @@
 
 
 ## Badges 🥇
-[![@skullcreek's Holopin board](https://holopin.me/skullcreek)](https://holopin.io/@skullcreek)<br><br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c62a3722-ee7c-4168-a510-f1184cd5c7e8/deploy-status)](https://www.darpanarayan.me/)
 
 
