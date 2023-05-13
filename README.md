@@ -16,7 +16,7 @@
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skullcreek&theme=highcontrast&hide_border=true&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skullcreek&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skullcreek&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=9)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skullcreek&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 
 
